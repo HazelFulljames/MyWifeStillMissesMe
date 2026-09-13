@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"triple_low_ouch_2",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.8750113,
+  "exportDir":"",
+  "name":"triple_low_ouch_2",
+  "parent":{
+    "name":"Objects",
+    "path":"folders/Objects.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"triple_low_ouch_2.wav",
+  "volume":1.0,
+}
