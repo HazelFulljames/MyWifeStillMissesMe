@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"stutter_bounce_redux_4",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.4677551,
+  "exportDir":"",
+  "name":"stutter_bounce_redux_4",
+  "parent":{
+    "name":"Bullets",
+    "path":"folders/Objects/Bullets.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"stutter_bounce_redux_4.wav",
+  "volume":1.0,
+}

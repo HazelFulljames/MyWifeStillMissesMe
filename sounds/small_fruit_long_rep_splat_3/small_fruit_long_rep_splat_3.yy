@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"small_fruit_long_rep_splat_3",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.58469385,
+  "exportDir":"",
+  "name":"small_fruit_long_rep_splat_3",
+  "parent":{
+    "name":"Bullets",
+    "path":"folders/Objects/Bullets.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"small_fruit_long_rep_splat_3.wav",
+  "volume":1.0,
+}

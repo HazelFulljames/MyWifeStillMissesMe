@@ -8,3 +8,12 @@ depth = 150
 
 xVel = 0;
 yVel = 0;
+
+var randSound = floor(random(3));
+if (randSound = 0) {
+	audio_play_sound(clunky_thunk_redux_furniture_place_1, 1, false);
+} else if (randSound = 1) {
+	audio_play_sound(clunky_thunk_redux_furniture_place_2, 1, false);
+} else {
+	audio_play_sound(clunky_thunk_redux_furniture_place_3, 1, false);
+}

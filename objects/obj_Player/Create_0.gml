@@ -6,3 +6,5 @@ spd = 5;
 zenMeter = 50;
 zenFillSpeed = 0.01;
 zenTimesFilled = 0;
+
+global.stepCounter = -1;

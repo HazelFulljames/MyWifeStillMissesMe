@@ -1,4 +1,5 @@
 var _inst = instance_place(x, y, deb_Hurt);
+
 if (_inst != noone)
 {
 	_inst.touched = true;
